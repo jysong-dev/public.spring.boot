@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="en"> 
 <head>
-	<title>DevResume - Bootstrap 4 Resume/CV Template For Software Developers</title>
+	<title>송지유 :: Junior Web Developer</title>
 	
 	<!-- Meta -->
 	<meta charset="utf-8">
@@ -12,7 +12,24 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
 	<meta name="author" content="Xiaoying Riley at 3rd Wave Media">    
-	<link rel="shortcut icon" href="favicon.ico"> 
+	
+	<link rel="apple-touch-icon" sizes="57x57" href="${contextPath}/resources/lib/DevResume-v1.2/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="${contextPath}/resources/lib/DevResume-v1.2/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="${contextPath}/resources/lib/DevResume-v1.2/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="${contextPath}/resources/lib/DevResume-v1.2/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="${contextPath}/resources/lib/DevResume-v1.2/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="${contextPath}/resources/lib/DevResume-v1.2/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="${contextPath}/resources/lib/DevResume-v1.2/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="${contextPath}/resources/lib/DevResume-v1.2/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="${contextPath}/resources/lib/DevResume-v1.2/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="${contextPath}/resources/lib/DevResume-v1.2/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="${contextPath}/resources/lib/DevResume-v1.2/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="${contextPath}/resources/lib/DevResume-v1.2/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="${contextPath}/resources/lib/DevResume-v1.2/favicon/favicon-16x16.png">
+	<link rel="manifest" href="${contextPath}/resources/lib/DevResume-v1.2/favicon/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="${contextPath}/resources/lib/DevResume-v1.2/favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
 	
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
@@ -88,12 +105,17 @@
 											<li>
 												<div class="resume-degree font-weight-bold">VCS</div>
 												<div class="resume-degree-org text-muted">Git</div>
-												<div class="resume-degree-time text-muted">Github Desktop이나 IntelliJ에서 제공하는 GUI를 활용하여 기능 단위로 Branch를 생성하여 소스 코드를 관리하였다.</div>
+												<div class="resume-degree-time text-muted">Github Desktop이나 IntelliJ에서 제공하는 GUI를 활용하여 기능 단위로 Branch를 생성하여 소스 코드를 관리</div>
 											</li>
 											<li>
 												<div class="resume-degree font-weight-bold">OS</div>
 												<div class="resume-degree-org text-muted">Linux</div>
 												<div class="resume-degree-time text-muted">Putty 툴을 활용하여 간단한 로그 조회, WAS 재실행</div>
+											</li>
+											<li>
+												<div class="resume-degree font-weight-bold">Development methodology</div>
+												<div class="resume-degree-org text-muted">Kanban</div>
+												<div class="resume-degree-time text-muted">Notion을 활용하여 개인 업무 관리</div>
 											</li>
 										</ul>
 									</div>
@@ -283,7 +305,6 @@
 				</footer>
 				
 			</div><!--//main-wrapper-->
-			
 
 </body>
 </html> 
